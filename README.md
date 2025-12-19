@@ -52,15 +52,15 @@ IPL generates massive amounts of data each season, but raw data alone does not p
 
 # Key challenges addressed:
 
-How to summarize 17+ years of IPL data meaningfully?
-How to compare current season performance with historical dominance?
-How to identify top-performing players quickly?
+  How to summarize 17+ years of IPL data meaningfully?
+  How to compare current season performance with historical dominance?
+  How to identify top-performing players quickly?
 
 # Key Business Questions Answered
 
-Who are the Orange Cap and Purple Cap winners for a selected season?
-What are the best individual batting and bowling performances?
-How has team performance evolved across seasons?
+   Who are the Orange Cap and Purple Cap winners for a selected season?
+   What are the best individual batting and bowling performances?
+   How has team performance evolved across seasons?
 
 # screenshot/demo
 Dashboard Preview : https://github.com/jagbandhumahnata/IPL-DASHBOARD/blob/main/DASHBOARD.png
