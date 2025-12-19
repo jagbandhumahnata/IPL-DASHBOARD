@@ -4,10 +4,10 @@
     This project presents an interactive IPL analytics dashboard covering seasons from 2008 to 2025.
     The dashboard is designed to provide insightful, data-driven views of team performance, player achievements, and historical trends in the Indian Premier            League (IPL).
 
-The primary purpose of this project is to:
-    i) Analyze season-wise and all-time IPL performance.
-    ii)Showcase key cricketing insights in a visually engaging way
-    iii) Demonstrate data modeling, DAX, and dashboard design skills using Power BI
+          The primary purpose of this project is to:
+            Analyze season-wise and all-time IPL performance.
+            Showcase key cricketing insights in a visually engaging way
+            Demonstrate data modeling, DAX, and dashboard design skills using Power BI
 
  
 # 2) Tech Stack
@@ -63,6 +63,6 @@ What are the best individual batting and bowling performances?
 How has team performance evolved across seasons?
 
 # screenshot/demo
-Dashboard Preview : 
+Dashboard Preview : https://github.com/jagbandhumahnata/IPL-DASHBOARD/blob/main/DASHBOARD.png
 
 
